@@ -1,10 +1,9 @@
 ### Ryan Oldfield · `peteedoo`
 
 Logistics by trade, builder by reflex. Nine years climbing from a production
-floor to running a $5M supply chain — and somewhere in there I started writing
-the automation nobody else wanted to. Now transitioning into program &
-operations work where logistics meets software, and building a lot in the
-meantime.
+floor to running a $5M supply chain, and somewhere in there I started writing
+the automation nobody else would. Now I'm moving into program and operations
+work where logistics meets software, and building a lot while I do.
 
 I like systems that run themselves and break loudly when they don't.
 
