@@ -17,8 +17,7 @@ I like systems that run themselves and break loudly when they don't.
 - **[iamfaulty-homelab](https://github.com/peteedoo/iamfaulty-homelab)** —
   self-hosted media + automation stack on a Mac mini and a NAS. Docker, CI/CD,
   reverse proxy, the works. Paired with
-  [homelab-monitor](https://github.com/peteedoo/homelab-monitor) and
-  [stack-dashboard](https://github.com/peteedoo/stack-dashboard) so I find out
+  [homelab-monitor](https://github.com/peteedoo/homelab-monitor) so I find out
   it's down before my family does.
 - **[ofs-load-tracker](https://github.com/peteedoo/ofs-load-tracker)** — native
   macOS app that pulls freight loads out of Mail and TMS screenshots. The freight
