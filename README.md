@@ -7,6 +7,12 @@ work where logistics meets software, and building a lot while I do.
 
 I like systems that run themselves and break loudly when they don't.
 
+🔨 **Currently building:** [Faulty Link](https://github.com/peteedoo/faulty-link) — off-grid community mesh — and turning my homelab into a self-healing appliance.
+💬 **Open to:** Program & Operations / TPM roles where logistics meets software.
+🌐 **Portfolio:** [iamfaulty.com](https://iamfaulty.com) · 📍 Lakewood, CO
+
+---
+
 **Things I've built**
 
 - **[faulty-link](https://github.com/peteedoo/faulty-link)** — off-grid Meshtastic
@@ -25,6 +31,30 @@ I like systems that run themselves and break loudly when they don't.
 - **[pico-drum-pad](https://github.com/peteedoo/pico-drum-pad)** — a drum machine
   on a Raspberry Pi Pico. No samples, all PWM. Purely because I wanted one.
 
-**Stack:** Python · Go (learning, loudly) · Docker · GitHub Actions · Bash · Swift · a pile of Raspberry Pis
+Browse everything by theme:
+[`homelab`](https://github.com/search?q=user%3Apeteedoo+topic%3Ahomelab&type=repositories) ·
+[`faulty-link`](https://github.com/search?q=user%3Apeteedoo+topic%3Afaulty-link&type=repositories) ·
+[`keyboards`](https://github.com/search?q=user%3Apeteedoo+topic%3Akeyboards&type=repositories) ·
+[`raspberry-pi-pico`](https://github.com/search?q=user%3Apeteedoo+topic%3Araspberry-pi-pico&type=repositories) ·
+[`ai-agents`](https://github.com/search?q=user%3Apeteedoo+topic%3Aai-agents&type=repositories)
 
-Open to program & ops roles where logistics meets software. Lakewood, CO · iamfaulty.com
+---
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go%20(learning,%20loudly)-00ADD8?style=flat&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peteedoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteedoo&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+Open to program & ops roles where logistics meets software → **[iamfaulty.com](https://iamfaulty.com)**
